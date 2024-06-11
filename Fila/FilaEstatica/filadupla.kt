@@ -1,0 +1,1 @@
+class filadupla (val tamanho: Int = 10): duplamenteEnfileiravel
